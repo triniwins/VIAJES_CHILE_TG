@@ -12,6 +12,10 @@ body {
     height: 45px;
 }
 
+h4 {
+  font-weight: 600;
+}
+
 
 
 .footer-wrap {
